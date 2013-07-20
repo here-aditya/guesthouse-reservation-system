@@ -1,0 +1,8 @@
+#spinner {
+  position:absolute;
+  height:30px;
+  width:30px;
+  top:25%;
+  left:25%;
+  background:transparent url('../pics/site/loading.gif') no-repeat center center;
+}
